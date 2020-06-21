@@ -10,7 +10,9 @@
 
 Настройка веб сервера Nginx + Flask + uWSGI(Debian/Ubuntu)(У меня не сработало): https://the-bosha.ru/2017/01/04/zapusk-flask-prilozheniia-c-uwsgi-virtualenv-i-nginx/
 
-Настройка веб сервера Nginx + Flask + uWSGI(Debian/Ubuntu): https://medium.com/faun/deploy-flask-app-with-nginx-using-gunicorn-7fda4f50066a
+Настройка веб сервера Nginx + Flask + uWSGI(Debian/Ubuntu)(У меня не сработало): https://medium.com/faun/deploy-flask-app-with-nginx-using-gunicorn-7fda4f50066a
+
+Настройка веб сервера Apache + Flask + uWSGI(Debian/Ubuntu): https://www.8host.com/blog/razvyortyvanie-prilozheniya-flask-na-servere-ubuntu/
 
 Настройка supervisor: https://www.8host.com/blog/ustanovka-i-upravlenie-supervisor-na-servere-ubuntu-i-debian/
 
