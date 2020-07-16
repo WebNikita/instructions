@@ -6,13 +6,7 @@
 
 Установка Python: https://linuxize.com/post/how-to-install-python-3-8-on-debian-10/
 
-Настройка веб сервера Nginx + Flask + Gunicorn(Debian/Ubuntu)(У меня не сработало): https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04-ru
-
-Настройка веб сервера Nginx + Flask + uWSGI(Debian/Ubuntu)(У меня не сработало): https://the-bosha.ru/2017/01/04/zapusk-flask-prilozheniia-c-uwsgi-virtualenv-i-nginx/
-
-Настройка веб сервера Nginx + Flask + uWSGI(Debian/Ubuntu)(У меня не сработало): https://medium.com/faun/deploy-flask-app-with-nginx-using-gunicorn-7fda4f50066a
-
-Настройка веб сервера Apache + Flask + uWSGI(Debian/Ubuntu)(У меня не сработало): https://www.8host.com/blog/razvyortyvanie-prilozheniya-flask-na-servere-ubuntu/
+Установка apache2 на Debian9: https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-debian-9-ru
 
 Настройка supervisor: https://www.8host.com/blog/ustanovka-i-upravlenie-supervisor-na-servere-ubuntu-i-debian/
 
