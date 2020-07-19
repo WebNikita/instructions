@@ -23,3 +23,5 @@
 Установка MySql: https://losst.ru/ustanovka-mysql-v-debian-10
 
 Установка Sudo в Debian: https://losst.ru/ustanovka-sudo-v-debian-10
+
+Авторизация по ключу SSH: https://losst.ru/avtorizatsiya-po-klyuchu-ssh#%D0%9A%D0%B0%D0%BA_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D0%BA%D0%BB%D1%8E%D1%87%D0%B8_SSH
